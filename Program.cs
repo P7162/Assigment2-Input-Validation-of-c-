@@ -8,7 +8,7 @@ namespace Assigment2
         static void Main(string[] args)
         {
 
-            WriteLine();
+            WriteLine("What");
             WriteLine("2.) Polynomial calculation:");
             WriteLine("-------------------------------------");
             int x = (int)GetIntegerFromUser("Please enter an integer value for 'x': ");
